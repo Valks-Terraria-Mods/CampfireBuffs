@@ -1,0 +1,6 @@
+When near a campfire, you get the following additional buffs.
+
+Mana Regeneration
+Health Regeneration (stacks with campfire regen)
+Heartreach
+Shine
