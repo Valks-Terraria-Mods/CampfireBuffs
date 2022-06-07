@@ -1,11 +1,10 @@
-using Terraria.ModLoader;
+global using Terraria;
+global using Terraria.ID;
+global using Terraria.ModLoader;
 
-namespace CampfireBuffs
+namespace CampfireBuffs;
+
+public class CampfireBuffs : Mod
 {
-	class CampfireBuffs : Mod
-	{
-		public CampfireBuffs()
-		{
-		}
-	}
+
 }
