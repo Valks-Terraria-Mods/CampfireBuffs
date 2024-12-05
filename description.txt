@@ -1,6 +1,9 @@
-When near a campfire, you get the following additional buffs.
+The following additional buffs are received when near any kind of campfire. Any of these buffs can be turned off individually in the config.
 
 Mana Regeneration
 Health Regeneration (stacks with campfire regen)
 Heartreach
 Shine
+
+Discord for Suggestions & Support: https://discord.gg/j8HQZZ76r8  
+Source Code: https://github.com/Valks-Terraria-Mods/CampfireBuffs  

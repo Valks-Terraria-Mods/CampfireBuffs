@@ -1,0 +1,25 @@
+Configs: {
+	Config: {
+		Shine: {
+			Tooltip: Toggle whether this buff is enabled when you walk near a campfire
+			Label: Shine
+		}
+
+		Heartreach: {
+			Tooltip: Toggle whether this buff is enabled when you walk near a campfire
+			Label: Heartreach
+		}
+
+		HealthRegeneration: {
+			Tooltip: Toggle whether this buff is enabled when you walk near a campfire
+			Label: Health Regeneration
+		}
+
+		ManaRegeneration: {
+			Tooltip: Toggle whether this buff is enabled when you walk near a campfire
+			Label: Mana Regeneration
+		}
+
+		DisplayName: Config
+	}
+}
